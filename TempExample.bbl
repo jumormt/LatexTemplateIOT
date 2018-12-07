@@ -1,0 +1,166 @@
+\begin{thebibliography}{10}
+
+\bibitem{Ge2004IOT}
+N. Gershenfeld, R. Krikorian, D. Cohen. The Internet of things[J]. Scientific
+  American, 2004, 291(4): 76.
+
+\bibitem{Me2010Tech}
+Metke A R, Ekl R L. Smart grid security technology. Innovative Smart Grid
+  Technologies(ISGT), 2010. IEEE, 2010. 1–7.
+
+\bibitem{Gr2010security}
+Grid N S. Introduction to nistir 7628 guidelines for smart grid cyber security.
+  Guideline,Sep, 2010..
+
+\bibitem{Li2016Reasearch}
+李怡德, 杨震, 龚洁中, et
+  al.物联网安全参考架构研究.信息安全研究, 2016,
+  2(5):417–423.
+
+\bibitem{Liu2012Reasearch}
+刘波, 陈晖, 王海涛, et
+  al.物联网安全问题分析及安全模型研究.计算机与数字工程,2012,11(40):21–24.
+
+\bibitem{PJ2016Workshops}
+Pacheco J, Hariri S. Iot security framework for smart cyber
+  infrastructures.Foundations and Applications of Self* Systems, IEEE
+  International Workshops on. IEEE, 2016. 242–247.
+
+\bibitem{Fang2012Tutor}
+Fang X, Misra S, Xue G, et al. Smart grid—the new and improved power grid: A
+  survey.IEEE communications surveys \& tutorials, 2012, 14(4):944–980.
+
+\bibitem{Agr2000DataMing}
+Agrawal R, Srikant R. Privacy-preserving data mining. ACM Sigmod Record, volume
+  29.ACM, 2000. 439–450.
+
+\bibitem{Agr2008DataMing}
+Aggarwal C C, Philip S Y. A general survey of privacy-preserving data mining
+  models and algorithms. Privacy-preserving data mining. Springer, 2008:
+  11–52.
+
+\bibitem{Sam1998Report}
+Samarati P, Sweeney L. Protecting privacy when disclosing information:
+  k-anonymity and its enforcement through generalization and suppression.
+  Technical report, Technical report,SRI International, 1998.
+
+\bibitem{Bay2005DataEngineer}
+Bayardo R J, Agrawal R. Data privacy through optimal k-anonymization. Data
+  Engineering,2005. ICDE 2005. Proceedings. 21st International Conference on.
+  IEEE, 2005. 217–228.
+
+\bibitem{Mach2007Discovery}
+Machanavajjhala A, Kifer D, Gehrke J, et al. l-diversity: Privacy beyond
+  k-anonymity. ACM Transactions on Knowledge Discovery from Data (TKDD), 2007,
+  1(1):3.
+
+\bibitem{Blum2005System}
+Blum A, Dwork C, Mc Sherry F, et al. Practical privacy: the sulq framework.
+  Proceedings of the twenty-fourth ACM SIGMOD-SIGACT-SIGART symposium on
+  Principles of database systems. ACM, 2005. 128–138.
+
+\bibitem{Kentha2005System}
+Kenthapadi K, Mishra N, Nissim K. Simulatable auditing. Proceedings of the
+  twenty-fourth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database
+  systems. ACM,2005. 118–127.
+
+\bibitem{Nabar2006Endowment}
+Nabar S U, Marthi B, Kenthapadi K, et al. Towards robustness in query auditing.
+  Proceedings of the 32nd international conference on Very large data bases.
+  VLDB Endowment, 2006.151–162.
+
+\bibitem{Pinkas2002Newsletter}
+Pinkas B. Cryptographic techniques for privacy-preserving data mining. ACM
+  Sigkdd Explorations Newsletter, 2002, 4(2):12–19.
+
+\bibitem{Jiang2006Bases}
+Jiang W, Clifton C. A secure distributed framework for achieving k-anonymity.
+  The VLDB Journal—The International Journal on Very Large Data Bases, 2006,
+  15(4):316–333.
+
+\bibitem{Zhong2005Systems}
+Zhong S, Yang Z, Wright R N. Privacy-enhancing k-anonymization of customer
+  data. Pro-ceedings of the twenty-fourth ACM SIGMOD-SIGACT-SIGART symposium on
+  Principles of database systems. ACM, 2005. 139–147.
+
+\bibitem{Gilburd2004Data}
+Gilburd B, Schuster A, Wolﬀ R. k-ttp: a new privacy model for large-scale
+  distributed envi-ronments. Proceedings of the tenth ACM SIGKDD international
+  conference on Knowledgediscovery and data mining. ACM, 2004. 563–568.
+
+\bibitem{Vaidya2002Data}
+Vaidya J, Clifton C. Privacy preserving association rule mining in vertically
+  partitioned data.Proceedings of the eighth ACM SIGKDD international
+  conference on Knowledge discovery and data mining. ACM, 2002. 639–644.
+
+\bibitem{Clifton2002Newsletter}
+Clifton C, Kantarcioglu M, Vaidya J, et al. Tools for privacy preserving
+  distributed datamining. ACM Sigkdd Explorations Newsletter, 2002,
+  4(2):28–34.
+
+\bibitem{Jaga2006Data}
+Jagannathan G, Pillaipakkamnatt K, Wright R N. A new privacy-preserving
+  distributed k-clustering algorithm. Proceedings of the 2006 SIAM
+  International Conference on Data Mining. SIAM, 2006. 494–498.
+
+\bibitem{Jana2005Data}
+Jagannathan G, Wright R N. Privacy-preserving distributed k-means clustering
+  over arbitrar-ily partitioned data. Proceedings of the eleventh ACM SIGKDD
+  international conference on Knowledge discovery in data mining. ACM, 2005.
+  593–599.
+
+\bibitem{Zhou2009Journal}
+周水庚, 李丰, 陶宇飞, et
+  al.面向数据库应用的隐私保护研究综述.计算机学报,
+  2009,32(5):847–861.
+
+\bibitem{Shen2014System}
+沈昌祥, 陈兴蜀.
+  基于可信计算构建纵深防御的信息安全保障体系.
+  四川大学学报 (工程科学版),2014, 46(1):1–7.
+
+\bibitem{Warren1890Review}
+Warren S D, Brandeis L D. The right to privacy. Harvard law review, 1890.
+  193–220.
+
+\bibitem{CSW2010Privacy}
+Group C S W. Guidelines for smart grid cyber security: Vol. 2, privacy and the
+  smart grid.2010..
+
+\bibitem{Clarke2006Workshop}
+Clarke R. What’s privacy. Australian law reform commission workshop, volume
+  28, 2006.
+
+\bibitem{Kim2011Mining}
+Kim H, Marwah M, Arlitt M, et al. Unsupervised disaggregation of low frequency
+  power measurements. Proceedings of the 2011 SIAM International Conference on
+  Data Mining.SIAM, 2011. 747–758.
+
+\bibitem{Parson2012Types}
+Parson O, Ghosh S, Weal M, et al. Non-intrusive load monitoring using prior
+  models of general appliance types. AAAi, 2012.
+
+\bibitem{Kolter2012Disaggergation}
+Kolter J Z, Jaakkola T S. Approximate inference in additive factorial hmms with
+  application to energy disaggregation. AISTATS, volume 22, 2012. 1472–1482.
+
+\bibitem{Yang2013Applications}
+Yang Z, Lei J, Fan K, et al. Keyword extraction by entropy diﬀerence between
+  the intrinsic and extrinsic mode. Physica A: Statistical Mechanics and its
+  Applications, 2013, 392(19):4523–4531.
+
+\bibitem{Ukil2014Workshops}
+Ukil A, Bandyopadhyay S, Pal A. Iot-privacy: To be private or not to be
+  private. Computer Communications Workshops (INFOCOM WKSHPS), 2014 IEEE
+  Conference on. IEEE,2014. 123–124.
+
+\bibitem{Carpena2009Squences}
+Carpena P, Bernaola-Galván P, Hackenberg M, et al. Level statistics of words:
+  Finding keywords in literary texts and symbolic sequences. Physical Review E,
+  2009, 79(3):035102.
+
+\bibitem{Zhou2003Applications}
+Zhou H, Slater G W. A metric to search for relevant words. Physica A:
+  Statistical Mechanics and its Applications, 2003, 329(1):309–327.
+
+\end{thebibliography}
